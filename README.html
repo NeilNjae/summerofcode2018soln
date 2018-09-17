@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>Summer of Code 2018</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="modest.css" type="text/css" />
+</head>
+<body>
+<div id="header">
+<h1 class="title">Summer of Code 2018</h1>
+</div>
+<p>Code to solve the <a href="https://learn2.open.ac.uk/course/view.php?id=206891">Summer of Code</a> puzzles. These sample solutions are in <a href="https://www.python.org/">Python</a> and <a href="https://wiki.haskell.org/Haskell">Haskell</a>.</p>
+<h1 id="python">Python</h1>
+<p>I develop the solutions with <a href="https://github.com/jupyterlab/">Jupyter Lab</a>.</p>
+<h1 id="haskell">Haskell</h1>
+<p><a href="http://learnyouahaskell.com/chapters">Learn you a Haskell</a>, <a href="https://www.haskell.org/tutorial/index.html">Introduction to Haskell 98</a>, and <a href="https://hackage.haskell.org/">Hackage</a> are good resources.</p>
+<p>The <a href="https://docs.haskellstack.org/en/stable/README/">Stack documentation</a> and <a href="http://howistart.org/posts/haskell/1/">How I Start: Haskell</a> are good sources of using the tools.</p>
+<h2 id="toolchain">Toolchain</h2>
+<p>I'm using the basic Haskell Platform installation, togeher with <code>stack</code> to manage the packages and dependencies (install with</p>
+<pre><code>$ sudo aptitude install haskell-platform haskell-stack</code></pre>
+<p>).</p>
+<h3 id="creating-the-repository-and-project">Creating the repository and project</h3>
+<p>Create the repository as normal: create the project in Gitolite, clone it, and insert the <code>.gitignore</code> and <code>README.md</code> files.</p>
+<p>There's just one package, with the code in sub-directories of the <code>src</code> directory. Each day will generate one (or more) entries in the <code>summerofcode2018soln.cabal</code> file.</p>
+<p>Create the basic <code>stack</code> project. This will create a new directory. Note that this new directory name can't have a hyphen-delimited word that's just digits, so the project will have to be <code>advent-of-code</code></p>
+<pre><code>stack new summerofcode2018soln --bare simple</code></pre>
+<p>Modify the <code>stack.yaml</code> file as needed, such as adding the <code>ghc-options</code> stanza.</p>
+<h3 id="creating-subsequent-days">Creating subsequent days</h3>
+<p>Each day lives in a separate directory within the <code>src</code> directory. It will also need it's own stanza in <code>summerofcode2018.cabal</code>.</p>
+<p>Compile with</p>
+<pre><code>stack build</code></pre>
+<p>or</p>
+<pre><code>stack build task1</code></pre>
+<p>Run with</p>
+<pre><code>stack exec task1</code></pre>
+<p>Run interactively with</p>
+<pre><code>stack ghci summerofcode2018soln:exe:task1</code></pre>
+<p>To profile, use</p>
+<pre><code>stack build --executable-profiling --library-profiling --ghc-options=&quot;-fprof-auto -rtsopts&quot; task1</code></pre>
+<p>then run with</p>
+<pre><code>stack exec -- task1 +RTS -p -hy</code></pre>
+<h2 id="packages">Packages</h2>
+<p>Stack is using the <a href="https://www.stackage.org/lts-12.9">12.9-lts resolver</a> for packages, so make sure you read the <a href="https://www.stackage.org/lts-12.9/docs">correct documentation for the packages included in it</a>.</p>
+<p>When you use a new package, use</p>
+<pre><code>stack solver</code></pre>
+<p>to see how the <code>stack.yaml</code> file needs to change, and</p>
+<pre><code>stack solver --update-yaml</code></pre>
+<p>to implement the changes.</p>
+<h1 id="readme">Readme</h1>
+<p>Build this readme file wth</p>
+<pre><code>pandoc -s README.md &gt; README.html</code></pre>
+<p>(Using the <a href="https://github.com/markdowncss/modest">Modest style</a>.)</p>
+</body>
+</html>

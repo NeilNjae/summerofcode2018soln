@@ -1,0 +1,28 @@
+name:                summerofcode2018soln
+version:             0.1.0.0
+-- synopsis:
+-- description:
+homepage:            https://github.com/neilnjae/summerofcode2018soln#readme
+license:             BSD3
+license-file:        LICENSE
+author:              Neil Smith
+maintainer:          noone@njae.me.uk
+copyright:           2016 Neil Smith
+category:            None
+build-type:          Simple
+cabal-version:       >=1.10
+extra-source-files:  README.md
+
+executable summerofcode2018soln
+  hs-source-dirs:      src
+  main-is:             Main.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+
+executable task0
+  hs-source-dirs:      src/task0
+  main-is:             task0.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+                     , unordered-containers
+                     , split

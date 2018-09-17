@@ -1,0 +1,1531 @@
+# The captain of your vessel was given warning at time of loading that it was not suitable for the carriage of robots, and so damage to its cargo cannot be charged to our account. Yours faithfully, Rossum’s Universal Robots.” Is that it now?
+A
+F1
+C
+F22
+A
+F1
+C
+F68
+F2
+# Yes
+F3
+C
+C
+F55
+C
+F1
+A
+# New letter. Friedrichswerke, Hamburg. Date. “We are pleased to confirm receipt of your order for fifteen thousand robots . . . ” (telephone rings. Domin lifts receiver and speaks) Hello, central office . . . yes . . . certainly . . . oh yes, as always . . . of course, send him a telegram . . . fine! (hangs up) Where were we?
+F4
+C
+F2
+A
+# . . . your order for fifteen thousand robots.
+F4
+C
+F1
+# (thoughtfully) fifteen thousand robots, fifteen thousand robots,
+# (enters) Mr. Domin, there is a lady outside who is asking . . .
+A
+# Who is it?
+# I do not know. (gives him visiting card)
+F1
+C
+# (reading) Mr. Glory, managing director of . . . Show him in!
+F4
+A
+# (opens door) Please come in, madam.
+F1
+C
+# (standing) Do come in.
+F2
+A
+# Mr. Domin, the managing director?
+F1
+# At your service
+C
+F1
+A
+F1
+C
+# I’ve come to see you . . .
+F3
+# . . . with the visiting card of Mr. Glory - no more need be said.
+A
+F1
+C
+F7
+A
+F1
+C
+# Mr. Glory is my father. I’m Helena Glory.
+F41
+C
+F1
+A
+F4
+C
+F1
+A
+F3
+C
+# Miss Glory, this is an exceptional honour for us that . . .
+F2
+A
+F2
+C
+# . . . that you can’t just show me the door
+# . . . that we can welcome the daughter of an illustrious businessman like your father. Please take a seat. Sulla, you can go now (exit Sulla)
+# (sitting) How can I help you, Miss Glory?
+# I’ve come here . . .
+F1
+A
+F2
+# . . . to see our factory for making people for yourself. All our visitors want to see the factory. And of course you’re very welcome.
+C
+F1
+A
+F1
+C
+# I thought it wasn’t allowed to . . .
+# . . . enter the factory? Well, of course it’s not, but everyone who comes here has a recommendation from somebody, Miss Glory.
+F1
+A
+# And do you let everyone see it . . .?
+# Not all of it. Making artificial people is an industrial secret.
+F2
+# Why will you never let me finish what I say?
+C
+F1
+A
+F2
+C
+F2
+A
+# Oh, I’m sorry. Is that not what you were going to say?
+F2
+C
+F2
+A
+F1
+C
+F1
+A
+# I was going to ask. . . .
+# . . . whether I might show you something in our factory that the others aren’t allowed to see. Well, I’m sure that’ll be OK, Miss Glory.
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F8
+A
+# What makes you think that’s what I was going to ask?
+# Everyone asks for the same thing. (standing) I can personally show you more than the others are allowed to see.
+# Thank you.
+# All I ask is that you don’t say anything at all to anyone else.
+# (stands and offers her hand) Word of honour.
+F1
+C
+# Thank you. Would you not like to take off your veil?
+F48
+# Oh, of course, you’ll be wanting to see my face. Do excuse me.
+C
+# That’s alright.
+# And, if you would just let go of my hand . . .
+F1
+A
+F1
+C
+# (releases hand) I’m sorry, I forgot.
+F1
+A
+# (removes veil) Do you want to make sure I’m not a spy. You seem very careful.
+F1
+C
+# (looks at her, enchanted) Hm – oh, yes, – well – that’s just how we are.
+F1
+# Don’t you trust me?
+A
+F1
+# Exceptionally. Miss, er, do excuse me Miss Glory. This really is an exceptional pleasure. Did you have a good crossing?
+C
+F1
+# Yes. Why?
+A
+F1
+C
+# Because – well, that is – because you are very young.
+F1
+# Are we going into the factory now?
+A
+F1
+# Yes. I suppose about twenty-two?
+C
+F3
+A
+# Twenty-two what?
+F1
+C
+# Years.
+F2
+# Twenty-one. Why do you want to know that?
+# Because . . . sort of . . . (with enthusiasm) You will be staying here for some time, won’t you.
+A
+F1
+C
+F1
+A
+F1
+C
+F4
+A
+# That depends on how much you choose to show me.
+F1
+C
+F1
+A
+F1
+# Ah, the damned factory! But of course, Miss Glory, you can see everything. Do please sit down. Would you be interested in hearing the history of our invention?
+# Yes, I would. (sits)
+# Well this is what happened. (sits at desk, seems captivated by Helena and speaks quickly) It was in 1920 when old Rossum, still a young man then but a great scientist, came to live on this isolated island in order to study marine biology. Stop. Alongside his studies, he made several attempts to synthesise the chemical structure of living tissues, known as protoplasm, and he eventually discovered a material that behaved just the same as living tissue despite being, chemically, quite different. That was in 1932, exactly four hundred and forty years after the discovery of America.
+# Do you know all this by heart?
+C
+# I do. Physiology really isn’t my subject. Shall I carry on?
+# If you like.
+# (triumphant) And then, Miss Glory, this is what he wrote down in his chemical notes: „Nature has found only one way of organising living matter. There is however another way which is simpler, easier to mould, and quicker to produce than Nature ever stumbled across. This other path along which life might have developed is what I have just discovered.“ Just think: he wrote these words about a blob of some kind of coloidal jelly that not even a dog would eat. Imagine him sitting with a test tube and thinking about how it could grow out into an entire tree of life made of all the animals starting with a tiny coil of life and ending with . . . ending with man himself. Man made of different material than we are. Miss Glory, this was one of the great moments of history.
+F1
+# What happened next?
+# Next? Next he had to get this life out of the test tube and speed up its development so that it would create some of organs needed such as bone and nerves and all sorts of things and find materials such as catalysts and enzymes and hormones and so on and in short . . . are you understanding all of this?
+# I . . . I’m not sure. Perhaps not all of it.
+A
+# I don’t understand any of it. It’s just that using this slime he could make whatever he wanted. He could have made a Medusa with the brain of Socrates or a worm fifty meters long. But old Rossum didn’t have a trace of humour about him, so he got it into his head to make a normal vertebrate, such as human being. And so that’s what he started doing.
+# What exactly was it he tried to do?
+# Imitating Nature. First he tried to make an artificial dog. It took him years and years, and the result was something like a malformed deer which died after a few days. I can show you it in the museum. And then he set to work making a human being.
+F1
+C
+# And that’s what I’m not allowed to tell anyone?
+F1
+A
+F2
+# No-one whatsoever.
+A
+F5
+A
+# Pity it’s in all the papers then.
+F1
+# That is a pity. (jumps off desk and sits beside Helena) But do you know what’s not in all the papers? (taps his forehead) That old Rossum was completely mad. Seriously. But keep that to yourself. He was quite mad. He seriously wanted to make a human being.
+# Well that’s what you do, isn’t it?
+C
+# Something like that, yes, but old Rossum meant it entirely literally. He wanted, in some scientific way, to take the place of God. He was a convinced materialist, and that’s why he wanted to do everything simply to prove that there was no God needed. That’s how he had had the idea of making a human being, just like you or me down to the smallest hair. Do you know anything about anatomy, Miss Glory?
+F1
+A
+F1
+# Er, not really, no.
+# No, nor do I. But just think of how old Rossum got it into his head to make everything, every gland, every organ, just as they are in the human body. The Appendix. The tonsils. The belly-button. Even the things with no function and even, er, even the sexual organs.
+# But the sexual organs would, er, they’d . . .
+C
+# They do have a function, I realise that. But if people are going to be made artificially then, er, then there’s not really much need for them.
+F2
+A
+# I see what you mean.
+F1
+C
+F1
+A
+# In the museum I’ll show you the monstrosity he created over the ten years he was working. It was supposed to be a man, but it lived for a total of three days. Old Rossum had no taste whatsoever. This thing is horrible, just horrible what he did. But on the inside it’s got all the things that a man’s supposed to have. Really! The detail of the work is quite amazing. And then Rossum’s nephew came out here. Now this man, Miss Glory, he was a genius. As soon as he saw what the old man was doing he said, ‘This is ridiculous, to spend ten years making a man; if you can’t do it quicker than Nature then you might as well give up on it’. And then he began to study anatomy himself.
+F5
+# That’s not what they say in the papers either.
+C
+# (standing) What they say in the papers are paid advertisements and all sorts of nonsense. They say the old man invented the robots himself, for one thing. What the old man did might have been alright for a university but he had no idea at all about industrial production. He thought he’d be making real people, real Indians or real professors or real idiots. It was young Rossum who had the idea of making robots that would be a living and intelligent workforce. What they say in the papers about the two great men working together is just a fairy tale - in fact they never stopped arguing. The old atheist had no idea about industry and commerce, and the young man ended up shutting him up in his laboratory where he could play around with his great failures while he got on with the real job himself in a proper scientific way. Old Rossum literally cursed him. He carried on in his laboratory, producing two more physiological monstrosities, until one day they found him there dead. And that’s the whole story.
+# And then, what did the young one do?
+F1
+A
+# Ah now, young Rossum; that was the start of a new age. After the age of research came the age of production. He took a good look at the human body and he saw straight away that it was much too complicated, any good engineer would design it much more simply. So he began to re-design the whole anatomy, seeing what he could leave out or simplify. In short, Miss Glory . . . I’m not boring you, am I?
+# No, quite the opposite, this is fascinating.
+F1
+# So young Rossum said to himself: Man is a being that does things such as feeling happiness, plays the violin, likes to go for a walk, and all sorts of other things which are simply not needed.
+C
+F1
+A
+# Oh, I see!
+F10
+# No, wait. Which are simply not needed for activities such as weaving or calculating. A petrol engine doesn’t have any ornaments or tassels on it, and making an artificial worker is just like making a petrol engine. The simpler you make production the better you make the product. What sort of worker do you think is the best?
+# The best sort of worker? I suppose one who is honest and dedicated.
+C
+F1
+# No. The best sort of worker is the cheapest worker. The one that has the least needs. What young Rossum invented was a worker with the least needs possible. He had to make him simpler. He threw out everything that wasn’t of direct use in his work, that’s to say, he threw out the man and put in the robot. Miss Glory, robots are not people. They are mechanically much better than we are, they have an amazing ability to understand things, but they don’t have a soul. Young Rossum created something much more sophisticated than Nature ever did - technically at least!
+A
+F1
+C
+# They do say that man was created by God.
+F1
+# So much the worse for them. God had no idea about modern technology. Would you believe that young Rossum, when he was alive, was playing at God.
+A
+F1
+# How was he doing that!
+# He started to make super-robots. Working giants. He tried to make them four meters tall - you wouldn’t believe how those monsters kept breaking up.
+C
+F1
+# Breaking up?
+# Yes. All of a sudden, for no reason, a leg or an arm would break. This planet just seems too small for monsters like that. So now we just make them normal size and normal proportions.
+A
+F1
+# I saw my first robot in our village. They’d bought him so that. . . . that’s to say they’d employed him to . . .
+C
+F1
+A
+# Bought it, Miss Glory. Robots are bought and sold.
+# . . . they’d obtained him to work as a road sweeper. I watched him working. He was strange. So quiet.
+F1
+C
+F1
+A
+F1
+C
+# Have you seen my typist?
+F1
+# I didn’t really notice her.
+# (rings) You know, RUR, Ltd. has never really make individual robots, but we do have some that are better than others. The best ones can last up to twenty years.
+A
+F1
+# And then they die, do they?
+# Yes, they get worn out.
+C
+F1
+A
+F2
+# Sulla, let Miss Glory have a look at you.
+C
+F1
+A
+# (stands and offers her hand) Pleased to meet you. It must be very hard for you out here, cut off from the rest of the world.
+F3
+C
+F1
+A
+# I do not know the rest of the world Miss Glory please sit down
+F1
+# (sits) Where are you from?
+# From here, the factory
+# Oh, you were born here.
+F2
+C
+# Yes I was made here.
+# (startled) What?
+F6
+C
+# (laughing) Sulla isn’t a person, Miss Glory, she’s a robot.
+F1
+A
+F1
+C
+# Oh, please forgive me . . .
+# (puts his hand on Sulla’s shoulder) Sulla doesn’t have feelings. You can examine her. Feel her face and see how we make the skin.
+F1
+A
+# Oh, no, no!
+F3
+C
+# It feels just the same as human skin. Sulla even has the sort of down on her face that you’d expect on a blonde. Perhaps her eyes are a bit small, but look at that hair. Turn around, Sulla.
+F1
+A
+F1
+# Stop it!
+C
+F2
+# Talk to our guest. We’re very honoured to have her here.
+A
+# Please sit down miss. (both sit) Did you have a good crossing.
+# Er, yes, yes, very good thank you.
+# It will be better not to go back on the Amelia Miss Glory. The barometer is dropping fast, and has sunk to 705. Wait here for the Pennsylvania, that is a very good and very strong ship.
+# How big is it?
+# It is twelve thousand tonnes and can travel at twenty knots.
+F1
+# (laughing) That’s enough now, Sulla, that’s enough. Show us how well you speak French.
+C
+F1
+A
+F2
+C
+F2
+A
+F2
+C
+F1
+A
+# You speak French?
+F1
+C
+F1
+# I speak four languages. I can write ‘Dear Sir! Monsieur! Geehrter Herr! Ctěný pane!’
+A
+F1
+C
+# (jumping up) This is all humbug! You’re all charlatans! Sulla’s not a robot, she’s a living girl just like I am. Sulla, you should be ashamed of yourself - why are you play-acting like this?
+# I am a robot.
+F1
+# No, no, you’re lying! Oh, I’m sorry, Sulla, I realise . . . I realise they force you to do it just to make their products look good. Sulla, you’re a living girl just like I am - admit it.
+A
+A
+F1
+A
+F2
+# Sorry Miss Glory. I’m afraid Sulla really is a robot.
+C
+# You’re lying!
+F1
+# (stands erect) What’s that? - (rings) If you’ll allow me, it seems I’ll have to convince you.
+# Marius, take Sulla down to the dissection room to have her opened up. Quickly!
+# Where?
+# The dissection room. Once they’ve cut her open you can come down and have a look.
+A
+F1
+C
+F1
+A
+# I’m not going there!
+F1
+# If you’ll forgive me, you did say something about lying.
+C
+F1
+A
+# You’re going to have her killed?
+# You don’t kill a machine.
+F1
+C
+F1
+A
+F1
+# (arms around Sulla) Don’t worry, Sulla, I won’t let them take you. Do they always treat you like this? You shouldn’t put up with it, do you hear, you shouldn’t put up with it.
+# I am a robot.
+C
+# I don’t care what you are. Robots are people just as good as we are. Sulla, would you really let them cut you open.
+F1
+A
+# Yes.
+F2
+C
+F2
+# And aren’t you afraid of dying?
+A
+F2
+# I do not understand dying, Miss Glory.
+C
+# Do you know what would happen to you then?
+F1
+A
+# Yes, I would cease to move.
+F1
+C
+F1
+A
+F2
+C
+F1
+# This is terrible!
+A
+F1
+# Marius, tell the lady what you are.
+C
+# Robot, Marius.
+F1
+# And would you take Sulla down to the dissection room?
+# Yes.
+A
+# Would you not feel any pity for her?
+F1
+# I do not understand pity.
+C
+# What would happen to her.
+F1
+A
+# She would cease to move. She would be put on the scrap heap.
+F1
+# That’s what death is, Marius. Are you afraid of death.
+C
+F2
+# No.
+# There, Miss Glory, you see? Robots don’t cling to life. There’s no way they could do. They’ve got no sense of pleasure. They’re less than the grass.
+A
+F2
+# Oh stop it! Send them out of here, at least!
+# Marius, Sulla, you can go now.
+# They’re horrible. This is vile, what you’re doing here.
+C
+F1
+A
+# What’s vile about it?
+# I don’t know. Why . . . why did you give her the name ‘Sulla’?
+# Don’t you like that name?
+C
+F4
+C
+# It’s a man’s name. Sulla was a Roman general.
+F1
+A
+# Was he? We thought Marius and Sulla were lovers.
+F2
+C
+F3
+# No, Marius and Sulla were generals who fought against each other in . . . oh I forget when.
+# Come over to the window. What do you see?
+# Bricklayers.
+# They’re robots. All the workers here are robots. And down here; what do you see there?
+A
+F2
+C
+F4
+A
+F1
+# Some kind of office.
+C
+F1
+A
+# That’s the accounts department. And in the . . .
+# . . . lots of office workers.
+F1
+C
+F1
+# They’re all robots. All our office staff are robots. Over there there’s the factory . . . .
+A
+# Lunchtime. The robots don’t know when they’re supposed to stop working. At two o’clock I’ll show you the mixers.
+F1
+# What mixers?
+C
+F1
+A
+# (drily) For mixing the dough. Each one of them can mix the material for a thousand robots at a time. Then there are the vats of liver and brain and so on. The bone factory. Then I’ll show you the spinning-mill.
+# What spinning-mill
+F1
+# Where we make the nerve fibres and the veins. And the intestine mill, where kilometers of tubing run through at a time. Then there’s the assembly room where all these things are put together, it’s just like making a car really. Each worker contributes just his own part of the production which automatically goes on to the next worker, then to the third and on and on. It’s all fascinating to watch. After that they go to the drying room and into storage where the newly made robots work.
+# You mean you make them start work as soon as they’re made?
+C
+F2
+A
+F1
+C
+F1
+A
+F1
+# Well really, it’s more like working in the way a new piece of furniture works. They need to get used to the idea that they exist. There’s something on the inside of them that needs to grow or something. And there are lots of new things on the inside that just aren’t there until this time. You see, we need to leave a little space for natural development. And in the meantime the products go through their apprenticeship.
+# What does that involve?
+# Much the same as going to school for a person. They learn how to speak, write and do arithmetic, as they’ve got amazing memories. If you read a twenty-volume encyclopedia to them they could repeat it back to you word for word, but they never think of anything new for themselves. They’d make very good university lecturers. After that, they’re sorted and distributed, fifteen thousand of them a day, not counting those that are defective and go back to the scrap heap . . . and so on and so on.
+C
+F1
+A
+F1
+# Are you cross with me?
+# God no! I just thought we . . . we might talk about something different. There’s just a few of us here surrounded by hundreds of thousands of robots, and no women at all. All we ever talk about is production levels all day every day. It’s as if there were some kind of curse on us.
+C
+F1
+A
+# I’m very sorry I called you . . . called you a liar.
+F1
+C
+# Come in, lads.
+# Oh, not disturbing you, are we?
+# Come on in. Miss Glory, this is Alquist, Fabry, Gall, Hallemeier. Mr. Glory’s daughter.
+# (embarrassed) Good afternoon
+F1
+A
+# We had no idea
+F1
+# This is a great pleasure
+C
+F2
+A
+F1
+C
+F1
+A
+# It’s nice to see you here, Miss Glory
+F1
+C
+# Hello, what’s going on here?
+F2
+# Come in, Busman. This is Busman, and this is Mr. Glory’s daughter.
+A
+# Pleased to meet you.
+F1
+C
+C
+C
+F1
+# Oh, that’s wonderful! Miss Glory, would you mind if we send a telegram to the newspapers to say you’ve come?
+A
+F1
+# No, no, please don’t do that!
+C
+# Please, do sit down.
+F1
+# Please . . .
+A
+F1
+C
+F2
+A
+F1
+C
+F2
+A
+F1
+C
+# After you . . .
+F1
+A
+F1
+C
+F2
+# Beg your pardon . . .
+# Miss Glory, did you have a good journey?
+A
+# Will you be staying here, with us, for long?
+F1
+C
+F1
+A
+# What do you think of our factory, Miss Glory?
+# Came over on the Amelia, did you?
+F1
+C
+F1
+# Quiet, let Miss Glory speak.
+A
+# (to Domin)What am I supposed to say to them?
+F1
+C
+# (surprised)Whatever you like.
+# Should I . . . should I be open with them?
+# Of course you should.
+F1
+A
+# (hesitant, then decided) Tell me, do you not mind the way you’re treated?
+F2
+C
+F1
+A
+F1
+C
+# Treated by whom?
+F1
+# Any of these people.
+A
+F1
+# The way we’re treated?
+C
+# How do you mean?
+F1
+# Oh my God!
+A
+# But Miss Glory, dear me!
+F1
+# Do you not think you could have a better kind of existence?
+# That all depends, Miss Glory, what do you mean?
+C
+# What I mean is . . . (in an outburst) . . . this is all horrible, it’s vile! (standing) The whole of Europe is talking about what’s going on here and the way you’re treated. That’s why I’ve come here, to see for myself, and I find it’s a thousand times worse than anyone ever thought! How can you bear it?
+F1
+# What is it you think we have to bear?
+A
+# Your position here. You are people just like we are, for God’s sake, just like anyone else in Europe, anyone else in the world! It’s a scandal, the way you have to live, it isn’t worthy of you!
+F1
+C
+F1
+A
+F1
+C
+# My word, Miss Glory!!
+F1
+A
+# But I think there might be something in what Miss Glory says, lads. We really do live here like a camp of Indians.
+F1
+C
+F1
+# Worse than Indians! May I, oh, may I call you ‘brothers’?
+A
+F1
+C
+F2
+# Well, why on Earth not?
+C
+F2
+A
+C
+F4
+A
+C
+# Brothers, I haven’t come here on behalf of my father. I’m here on behalf of the League of Humanity. Brothers, the League of Humanity now has more than two thousand members. There are two thousand people who are standing up for you and want to help you.
+# Two thousand people! Dear me, that’s quite a decent number, that’s very nice indeed.
+# I always say that old Europe hasn’t had its day yet. Do you hear, lads, they haven’t forgotten about us, they want to help us.
+# What sort of help do you have in mind? A theatre performance, perhaps?
+F9
+A
+# An orchestra?
+F1
+C
+F6
+A
+# More than that.
+# Yourself?
+F1
+C
+# Oh, never mind myself! I’ll stay here for as long as it’s needed.
+# Dear me, that is good news!
+F1
+A
+F1
+C
+F2
+A
+F1
+C
+F2
+A
+F1
+C
+F1
+# I’ll go and get the best room ready for Miss Glory then, Domin.
+A
+F1
+C
+F2
+A
+F1
+# Wait a second, Alquist, I’ve a feeling Miss Glory hasn’t quite finished speaking yet.
+C
+F1
+A
+# No, I haven’t finished, not unless you mean to shut me up by force.
+F1
+C
+F1
+A
+F2
+# Harry, how dare you!
+# Thank you. I knew you’d protect me.
+C
+F1
+A
+F1
+# Excuse me, Miss Glory, but are you sure you’re talking to robots?
+# (taken aback)Who else would I be talking to?
+C
+F1
+A
+F1
+# I’m afraid these gentlemen are people, just like you are. Just like the whole of Europe.
+# (to the others) You aren’t robots?
+C
+F2
+# (laughing) God forbid!
+A
+# The idea’s disgusting!
+F1
+C
+F1
+A
+F2
+# (laughing) Well thank you very much!
+# But . . . but that’s impossible.
+C
+# On my word of honour, Miss Glory, we are not robots.
+F1
+A
+F1
+# (to Domin) Then why did you tell me that all your staff are robots?
+# All the staff are robots, but not the management. Let me introduce them: Mr. Fabry, general technical director, Rossum’s Universal Robots. Doctor Gall, director of department for physiology and research. Doctor Hallemeier, director of the institute for robot behaviour and psychology. Mr. Busman, commercial director, and Mr. Alquist, our builder, head of construction at Rossum’s Universal Robots.
+C
+# I’m sorry gentlemen. I . . . I . . . oh, that’s terrible, what have I done?
+# Oh, it doesn’t matter, Miss Glory, please sit down.
+F1
+# (sitting) What a stupid girl I am. Now, now you’ll send me back on the next ship.
+A
+F3
+C
+F1
+A
+F3
+C
+# Not for the world. Why would we want to send you back?
+# Because now you know . . . you know . . . you know I want to destroy your business.
+F1
+# But there’ve already been hundreds of saviours and prophets here. More of them arrive with every ship; missionaries, anarchists, the Salvation Army, everything you can think of. It’s astonishing just how many churches and madmen there are in the world.
+A
+F24
+# And you let them talk to the robots?
+# Why not? We’ve let them all do it so far. The robots remember everything, but that’s all they do. They don’t even laugh at what people tell them. It’s really quite incredible. If you feel like it, I can take you down to the storeroom and you can talk to the robots there.
+# Three hundred and forty-seven thousand.
+# Alright then. You can lecture them on whatever you like. Read them the Bible, logarithmic tables, anything. You can even preach to them about human rights.
+C
+F1
+A
+F36
+A
+# But I thought that . . . if they were just shown a little love . . .
+F1
+# That’s impossible, Miss Glory. There’s nothing more different from people than a robot.
+# Why do you make them?
+# Hahaha, that’s a good one! Why do we make robots!
+C
+# So that they can work for us, Miss Glory. One robot can take the place of two and a half workers. The human body is very imperfect; one day it had to be replaced with a machine that would work better.
+F1
+A
+F1
+# People cost too much.
+C
+# They were very unproductive. They weren’t good enough for modern technology. And besides, . . . besides . . . this is wonderful progress that . . . I beg your pardon.
+F1
+# What?
+A
+F54
+# Please forgive me, but to give birth to a machine is wonderful progress. It’s more convenient and it’s quicker, and everything that’s quicker means progress. Nature had no notion of the modern rate of work. From a technical point of view, the whole of childhood is quite pointless. Simply a waste of time. And thirdly . . .
+C
+F1
+A
+F6
+C
+F1
+A
+F3
+C
+F1
+# Oh, stop it!
+A
+F4
+# As you like. Can I ask you, what actually is it that your League . . . League of Humanity stands for?
+F49
+# It’s meant to. . . . actually it’s meant to protect the robots and make sure . . . make sure they’re treated properly.
+A
+C
+# That’s not at all a bad objective. A machine should always be treated properly. In fact I agree with you completely. I never like it when things are damaged. Miss Glory, would you mind enrolling all of us as new paying members of your organisation.
+F2
+A
+# No, you don’t understand. We want, what we actually want is to set the robots free!
+C
+# To do what?
+C
+C
+F7
+C
+# They should be treated . . . treated the same as people.
+F1
+A
+# Aha. So you mean they should have the vote! Do you think they should be paid a wage as well?
+F1
+# Well of course they should!
+C
+F1
+A
+# We’ll have to see about that. And what do you think they’d do with their wages?
+F9
+C
+F1
+A
+# They’d buy . . . buy the things they need . . . things to bring them pleasure.
+# This all sounds very nice; only robots don’t feel pleasure. And what are these things they’re supposed to buy? They can be fed on pineapples, straw, anything you like; it’s all the same to them, they haven’t got a sense of taste. There’s nothing they’re interested in, Miss Glory. It’s not as if anyone’s ever seen a robot laugh.
+# Why . . . why . . . why don’t you make them happier?
+F5
+# We couldn’t do that, they’re only robots after all. They’ve got no will of their own. No passions. No hopes. No soul.
+# And no love and no courage?
+# Well of course they don’t feel love. Robots don’t love anything, not even themselves. And courage? I’m not so sure about that; a couple of times, not very often, mind, they have shown some resistance . . .
+# What?
+C
+# Well, nothing in particular, just that sometimes they seem to, sort of, go silent. It’s almost like some kind of epileptic fit. ‘Robot cramp’, we call it. Or sometimes one of them might suddenly smash whatever’s in its hand, or stand still, or grind their teeth– and then they just have to go on the scrap heap. It’s clearly just some technical disorder.
+F2
+# Some kind of fault in the production.
+A
+F1
+C
+F1
+A
+F1
+# No, no, that’s their soul!
+C
+# Do you think that grinding teeth is the beginnings of a soul?
+F3
+A
+F1
+# We can solve that problem, Miss Glory. Doctor Gall is carrying out some experiments right now.
+C
+F4
+A
+# No, not quite yet, Domin, at present I’m working on nerves for feeling pain.
+F1
+C
+# Nerves for feeling pain?
+F5
+A
+F1
+# That’s right. Robots have virtually no sense of physical pain, as young Rossum simplified the nervous system a bit too much. That turns out to have been a mistake and so we’re working on pain now.
+C
+F1
+# Why . . . why . . . if you don’t give them a soul why do you want to give them pain?
+A
+F1
+# For good industrial reasons, Miss Glory. The robots sometimes cause themselves damage because it causes them no pain; they do things such as pushing their hand into a machine, cutting off a finger or even smash their heads in. It just doesn’t matter to them. But if they have pain it’ll be an automatic protection against injuries.
+C
+# Will they be any the happier when they can feel pain?
+# Quite the opposite, but it will be a technical improvement.
+# Why don’t you create a soul for them?
+F8
+A
+# That’s not within our power.
+F1
+C
+F4
+# That wouldn’t be in our interest.
+# That would raise production costs. Just think how cheaply we make them; a hundred and twenty dollars each, complete with clothing, and fifteen years ago they cost ten thousand! Five years ago we still had to buy the clothes for them, but now we have our own weaving mills and even sell material at a fifth of the price of other mills. Tell me, Miss Glory, what is it you pay for a metre of cloth?
+# I don’t know . . . I really don’t know . . . I’ve forgotten.
+A
+F1
+C
+F6
+# Dear dear me, and you were wanting to establish the League of Humanity! Cloth nowadays is three times cheaper, miss, the prices of everything are three times cheaper and they’re still going down and down and down.
+C
+# I don’t see what you mean.
+# Dear lady, what I mean is that the price of labour is getting cheaper! Even with its food, a robot costs no more than three quarters of a cent per hour! It’s wonderful; every factory is buying robots as quick as they can to reduce production costs, and those that aren’t are going bankrupt.
+# Yes, that’s right, and throwing their workers out on the streets.
+F1
+A
+F1
+C
+F1
+# Haha, well of course they are! And while they are doing that we are putting five hundred thousand tropical robots out on the Argentine pampas to cultivate wheat. Tell me, what does a loaf of bread cost where you come from?
+A
+# I’ve no idea.
+C
+# There, you see; in good old Europe, a loaf of bread now costs two cents; but that bread comes from us, do you see? Two cents a loaf; and the League of Humanity has no idea! Haha, Miss Glory, you do not even know if you are paying too much for a crust. Or too much for society or for anything else. But in five years’ time, dear me, do sit down!
+# What?
+F4
+A
+C
+F1
+A
+C
+F7
+# In five years’ time, the price will be a tenth of a cent. We’ll be drowning in wheat and in everything else you can think of.
+A
+F1
+C
+F1
+A
+F1
+# Yes, and all the workers in the world will be out of a job.
+# (standing) Yes, they will be, Alquist. They will be, Miss Glory. But in ten years’ time Rossum’s Universal Robots will be making so much wheat, so much material, so much of everything that nothing will cost anything. Everyone will be able to just take as much as he needs. Nobody will live in poverty. They won’t have jobs, that’s true, but that’s because there won’t be any jobs to do. Everything will be done by living machines. People will do only the things they want to do, they can live their lives just so that they can make themselves perfect.
+# (standing) Do you think that’s really going to happen?
+C
+# That’s really going to happen. It couldn’t possibly not happen. There might be some terrible things that happen before that, Miss Glory, that just can’t be avoided, but then man will stop being the servant of other men or the slave of material things. Nobody will have to pay for a loaf of bread with his life and with hatred. You’re not a labourer any more, you don’t have to sit at a typewriter all day, you don’t have to go and dig coal or stand minding somebody else’s machines. You don’t need to lose your soul doing work that you hate.
+F2
+A
+# Domin, Domin! You’re making all this sound too much like Paradise. Don’t you think there was something good about serving others, something great about humility? Wasn’t there some sort of dignity about working and getting tired after a day’s labour?
+C
+# Maybe there was. But we can’t always be thinking about the things we lost by changing the world as Adam knew it. Adam had to gain his bread by the sweat of his brow, he had to suffer hunger and thirst, tiredness and humiliation; now is the time when we can go back to the paradise where Adam was fed by the hand of God, when man was free and supreme; man will once more be free of labour and anguish, and his only task will once again be to make himself perfect, to become the lord of creation.
+F7
+A
+C
+F3
+A
+C
+F4
+# Now you’re confusing me; I’m only a silly girl. But I wish, I really wish I could believe in all that.
+# You’re younger than we are, Miss Glory. Just you wait and see.
+# It’s all quite true. I think Miss Glory might like to have breakfast with us.
+# Well of course she can! Domin, make the invitation, on our behalf.
+# Miss Glory, please do us the honour.
+A
+C
+# But, how can I, now?
+# On behalf of the League of Humanity.
+F2
+C
+# In honour of the League of Humanity
+F1
+# Ah well, in that case. . . .
+A
+# That’s good! Miss Glory, please excuse us for five minutes.
+# Pardon me . . .
+F1
+C
+F2
+A
+# Dear me, I must send that telegram . . .
+F1
+C
+# Hell, I nearly forgot . . .
+F4
+A
+F1
+C
+F2
+# Why have they all gone?
+A
+# To do the cooking.
+F1
+C
+# What cooking.
+F21
+# The breakfast, Miss Glory. The robots do the cooking for us, only, er, as they’ve got no sense of taste it’s not always, er . . . but Hallemeier is excellent with meat. And Gall does a sort of sauce, and Busman knows how to make omelettes . . .
+C
+F1
+# This is going to be quite a feast! And what does Mr., er, the builder do?
+A
+# Alquist? Nothing. He just lays the table and, er, Fabry gets some fruit. It’s only a very modest kitchen, really.
+F7
+C
+F1
+# There’s something I wanted to ask you . . .
+A
+# I’ve been wanting to ask you something too. (puts his watch on the table) We’ve got five minutes.
+# What did you want to ask?
+F1
+C
+C
+# No, please, you started to ask first.
+F35
+C
+# Maybe it’s stupid of me, but. . . . Why do you make female robots when, . . . when . . .
+F1
+# . . . when they don’t have, er, when gender has no meaning for them?
+A
+# That’s right.
+# It’s a matter of supply and demand. You see, housemaids, shop staff, typists . . . people are used to them being female.
+# And, tell me, towards each other, the male robots and the female robots, are they, er . . .
+# Simply indifferent to each other. There’s no sign of any attraction for each other at all.
+F1
+C
+F1
+A
+# Oh, that’s horrible!
+A
+A
+F5
+# Why?
+# It’s just so . . . so unnatural! You don’t even know whether you’re supposed to loathe them or . . . or to envy them . . . or . . .
+C
+# . . . or feel sorry for them?
+F1
+A
+F11
+# Most likely, yes! No, stop it! What was it you were going to ask?
+C
+F1
+A
+F11
+C
+# I’d like to ask you, Miss Glory, if you would marry me?
+# What?
+# Marry me.
+F1
+# No! What are you thinking of?
+A
+# (looks at watch) There are three minutes left. If you don’t marry me you’ll have to marry one of the other five.
+F5
+A
+F1
+C
+F1
+A
+F1
+# Oh for God’s sake! Why would I marry any of you?
+C
+F1
+# Because they’ll all ask you one after the other.
+# How would they dare?
+# Well I’m afraid they all seem to have fallen in love with you.
+A
+F3
+# Well I don’t want them to do that! I’m leaving.
+C
+# But surely you wouldn’t do that, Helena, you’d make them so sad.
+F1
+# I can’t marry all six of you, can I!
+A
+# No, but you can marry one. If you won’t have me maybe Fabry would do.
+# I don’t want to.
+# Doctor Gall.
+F6
+# No, no, be quiet! I don’t want any of you!
+C
+# There are two minutes left.
+F1
+A
+# This is awful! Marry one of the robots.
+F19
+A
+F4
+C
+F1
+A
+F14
+C
+F1
+A
+F4
+# A robot isn’t a woman.
+C
+F1
+A
+F13
+C
+C
+F80
+C
+F1
+A
+F3
+C
+F1
+# And that’s all you want, is it! I get the impression you’d . . . you’d marry anyone who turned up here.
+# Enough have been here already.
+# Young?
+# Young.
+# Why didn’t you marry any of them?
+A
+F3
+# Because I didn’t lose my head over them. Not till today. As soon as you took off your veil.
+# . . . I know.
+C
+F1
+# One minute left.
+A
+F1
+C
+# But I don’t want to, for God’s sake!
+# (putting both hands on her shoulders) One minute left. Either you look me in they eye and say something quite repulsive so that I drop you, or else . . .
+# You’re just a ruffian!
+F1
+# That doesn’t matter. A man is supposed to be a bit of a ruffian, that’s part of being a man.
+A
+# You’re mad!
+A
+# People are supposed to be a little bit mad, Helena. That’s the best thing about them.
+A
+# You’re . . . you’re . . . Oh God!
+F72
+# There, you see? Are you ready now?
+C
+F1
+# No, no! Please let go of me! You’re crushing me!
+A
+# Your final word, Helena.
+F1
+C
+# (defending herself) Not for anything in the world . . . but Harry!
+F1
+# Everything finished in the kitchen?
+# (triumphant) Yes.
+# Here too.
+A
+F1
+C
+F1
+A
+F2
+C
+F2
+A
+F1
+C
+F7
+A
+F1
+C
+F2
+A
+F1
+C
+F3
+A
+F1
+C
+F4
+A
+F1
+C
+F11
+C
+F4
+A
+F1
+C
+F12
+A
+F1
+C
+F6
+C
+F2
+A
+F1
+C
+F3
+A
+F1
+C
+F13
+A
+F1
+C
+F5
+A
+F1
+C
+F6
+A
+F1
+C
+C
+C
+F27
+A
+C
+F2
+A
+F1
+C
+F1
+A
+C
+F1
+A
+C
+F1
+A
+C
+F2
+A
+C
+F2
+A
+F1
+C
+F4
+A
+F1
+C
+F5
+A
+F1
+C
+F2
+A
+F1
+C
+F2
+A
+F1
+C
+F2
+A
+F1
+C
+F1
+A
+F2
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F2
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F3
+A
+F1
+C
+F2
+A
+F1
+C
+F1
+A
+C
+F1
+A
+C
+F2
+A
+C
+F1
+A
+C
+F1
+A
+C
+F3
+A
+C
+F10
+F5
+A
+F9
+A
+F1
+F1
+C
+F1
+A
+F3
+C
+F1
+A
+F3
+C
+F1
+A
+F10
+C
+F1
+A
+F14
+A
+F6
+C
+F1
+A
+F5
+C
+F1
+A
+F3
+C
+F1
+A
+F11
+A
+F2
+C
+F1
+A
+F2
+C
+F1
+A
+F13
+C
+F1
+A
+F46
+A
+F1
+C
+F1
+A
+F50
+A
+F1
+C
+F24
+A
+F1
+C
+F5
+A
+F1
+C
+F3
+A
+F1
+A
+F50
+A
+F2
+C
+F1
+A
+F1
+C
+F1
+A
+F2
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F2
+A
+F2
+C
+F2
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F2
+A
+F1
+C
+F3
+A
+C
+F5
+A
+C
+F6
+C
+F1
+A
+F1
+C
+F8
+A
+F1
+C
+F2
+A
+F1
+C
+F5
+C
+F2
+A
+F1
+C
+F3
+A
+F1
+C
+F25
+C
+F3
+A
+F1
+C
+F1
+C
+F2
+C
+F2
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F2
+A
+F1
+C
+F2
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F2
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F2
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F4
+C
+C
+F1

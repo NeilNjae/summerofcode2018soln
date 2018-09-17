@@ -32,3 +32,11 @@ executable task1
   main-is:             task1.hs
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5
+
+executable task1-mpc
+  hs-source-dirs:      src/task1
+  main-is:             task1-mpc.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+                     , text
+                     , megaparsec

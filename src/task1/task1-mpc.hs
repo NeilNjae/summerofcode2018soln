@@ -16,13 +16,15 @@ import qualified Control.Applicative as CA
 
 -- number of steps
 type Distance = Int
+
+-- easting, northing
 type Position = (Int, Int)
 
 -- the directions. See below for functions for turning
 data Direction = North | East | South | West 
     deriving (Enum, Show, Bounded, Eq)
 
--- direction, easting, northing
+-- The currenct state of a Mowmaster
 data Mowmaster = Mowmaster { direction :: Direction 
                            , position :: Position
                            } deriving (Show, Eq)
@@ -99,6 +101,8 @@ symb = L.symbol sc
 
 -- instructions is some optional space followed by many instructions
 instrsP = optional sc *> many instrP
+
+-- an instruction is either F, C, or A
 instrP = forwardP <|> cwP <|> acwP
 
 -- parse each instruction

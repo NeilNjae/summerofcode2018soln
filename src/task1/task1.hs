@@ -2,13 +2,15 @@ import Data.List (foldl')        -- import the strict fold
 
 -- number of steps
 type Distance = Int
+
+-- easting, northing
 type Position = (Int, Int)
 
 -- the directions. See below for functions for turning
 data Direction = North | East | South | West 
     deriving (Enum, Show, Bounded, Eq)
 
--- direction, easting, northing
+-- the currenct state of a Mowmaster
 data Mowmaster = Mowmaster { direction :: Direction 
                            , position :: Position
                            } deriving (Show, Eq)

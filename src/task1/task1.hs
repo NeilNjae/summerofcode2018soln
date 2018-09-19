@@ -57,7 +57,7 @@ readInstruction i = readInstruction' (head i) (tail i)
           readInstruction'  _  t = Comment t
 
 
-initialMowmaster = Mowmaster North (0, 0)
+initialMowmaster = Mowmaster East (0, 0)
 
 
 -- Calculate manhattan distance from start to this state
@@ -75,7 +75,7 @@ execute m (Comment _)    = m
 
 
 -- Move in the current direction
-forward :: Int -> Direction -> Position -> Position
+forward :: Distance -> Direction -> Position -> Position
 forward s North (e, n) = (e, n+s)
 forward s South (e, n) = (e, n-s)
 forward s West  (e, n) = (e-s, n)

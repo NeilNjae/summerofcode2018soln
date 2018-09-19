@@ -33,7 +33,6 @@ data Mowmaster = Mowmaster { direction :: Direction
 data Instruction =   Forward Distance
                    | Clockwise 
                    | Anticlockwise
-                   | Comment String
     deriving (Show, Eq)
 
 
@@ -48,10 +47,10 @@ part1 :: [Instruction] -> Int
 part1 = length 
 
 part2 :: [Instruction] -> Int
-part2 instructions = finalDistance $ executeAll instructions
+part2 = finalDistance . executeAll
     where executeAll = foldl' execute initialMowmaster
 
-initialMowmaster = Mowmaster North (0, 0)
+initialMowmaster = Mowmaster East (0, 0)
 
 
 -- Calculate manhattan distance from start to this state
@@ -65,10 +64,9 @@ execute :: Mowmaster -> Instruction -> Mowmaster
 execute m (Forward s)    = m {position  = forward s (direction m) (position m)}
 execute m  Clockwise     = m {direction = turnCW (direction m)}
 execute m  Anticlockwise = m {direction = turnACW (direction m)}
-execute m  _ = m
 
 -- Move in the current direction
-forward :: Int -> Direction -> Position -> Position
+forward :: Distance -> Direction -> Position -> Position
 forward s North (e, n) = (e, n+s)
 forward s South (e, n) = (e, n-s)
 forward s West  (e, n) = (e-s, n)

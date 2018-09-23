@@ -1,0 +1,933 @@
+# Where do you think we should put them?
+# Ouf! (puts down load and gives blessing in a large cross at the door, stage right) She’s asleep, asleep! She who sleeps knows nothing.
+U
+# She doesn’t know a thing.
+F1
+# (puts flowers in vase) Let’s hope, at least, today’s not the day it happens . . .
+D
+# (likewise puts flowers in vase) Oh don’t keep on about it, for God’s sake! Look at this, Harry, this cyclamen is beautiful. A new species, my latest one - Cyclamen Helenae.
+F8
+# (looking out of window) No ships, no ships - it’s hopeless, lads, we’ve had it.
+# Quiet! What if she hears you?
+# She doesn’t know a thing. (Yawns, as if ill) At least the Ultimus docked on time.
+# (leaving the flowers) Do you think it might be today when . . .?
+# I don’t know. These flowers are lovely.
+# (approaching him) This primula is one of my new ones, and this is my new jasmine. In fact I’m right on the threshold of a whole new Garden of Paradise full of new flowers. I’ve found a wonderful new way to accelerate development, and all sorts of new species! Next year I’ll be performing real miracles with flowers!
+# (turning) Next year?
+# Well, let’s see what happens, anyway. Any news from Le Havre?
+# Quiet!
+# Nana!
+# Everybody out! (everyone leaves on tiptoe through the wallpapered door)
+# (tidying up) Cor, wha’ a mess! What a bunch of ‘eathens! God forgive me if I don’t . . .
+# (back to stage, in doorway) Nana, come and zip me up.
+# Alrigh’, comin, comin. (zips up Helena’s dress) God almighty, they’re a bunch of animals!
+# The robots?
+# Give over, I don’t even wanna say the word.
+# What’s happened?
+# They caught another another of them. Started smashing up all the moulds and models he did, grinding ‘is teeth and foamin at the mouth - just went crazy. Ugh! Worse than animals, they are.
+C
+# Which one was it they caught?
+# That, that . . . Christ!, it ‘asn’even got a proper Christian name! That one in the library.
+F5
+# Radius?
+# Yeh, that’s the one. God, they make me sick! Not even a spider I don’t hate as much as I hate them heathens.
+# Don’t you even feel sorry for them Nana?
+# Well you hate them, and all. What d’you bring me right out here for anyway? And why can’t any of them even touch you?
+# I don’t hate them, Nana, not at all, I just feel so sorry for them!
+# You hate them. Everyone hates them, it isn’t possible not to. Even this dog hates them, won’t take a scrap of meat from them; sticks out his tail, he does, and howls as soon as he gets the smell of them.
+U
+# A dog doesn’t have reason.
+C
+# He’s better than what they are, Helena. He knows perfectly well it was God what made him and that he’s better than they are. Even the horse takes fright when he comes across one of those heathens. They don’t have children, but even a dog has children, everyone has children.
+# Nana, do me up here, please.
+# Alright. It’s against the will of God, that’s what I say; work of the Devil, it is, making scarecrows like that with machines. It’s blasphemy against the Creator, (raises hands) it’s an offence against the Lord who made us in His own image, Helena. And you’ve dishonoured the image of God, that’s what you’ve done. You’ll suffer a terrible punishment from God for that, you will, just you remember that, a terrible punishment.
+# What’s that nice smell?
+# Flowers. The master put them here.
+# Oh, they’re lovely! Nana, come and look! What day is it today?
+F3
+# I don’t know. Must be the Day of Judgement, I should think.
+# Harry?
+# Harry, what day is it today?
+# Guess!
+# My name-day? No! My birthday?
+D
+# Better than that.
+# I don’t know. Tell me, tell me!
+# It was ten years ago today that you arrived here.
+# Ten years, already? On this day? - Nana, please . . .
+# Alright, I’m comin! (exit right)
+# (kisses Domin) And you remembered it!
+C
+# Actually, I’m ashamed to say, I didn’t remember.
+# But . . .
+F4
+# It was them who remembered.
+# Who?
+# Busman, Hallemeier, all of them. Reach into my pocket, here, will you?
+# (puts hand into his pocket) What is it? (takes out case and opens it) Pearls! A whole necklace of them! Harry, is that for me?
+# That’s from Busman.
+# But . . . we can’t accept it, can we?
+# Course we can. Reach into my other pocket.
+# Let me see! (takes revolver out of pocket) What’s this?
+# Oh, sorry. (takes revolver from her and puts it away) That’s not it. Try again.
+# Oh, Harry - why are you carrying a revolver round with you?
+# Well, I just am, it got in there somehow
+# You never used to carry a gun!
+# No, you’re quite right. Here’s the pocket, look..
+# (reaching in) A little box! (opens it) Cameos! And they’re . . . Harry, they’re Greek cameos!
+# Clearly. At least that’s what Fabry says.
+# Fabry? It’s Fabry who gave me these?
+# Course it is. (opens door, left) And look at this, Helena, come over here and have a look!
+# (at the door) God, that’s so beautiful! (runs on) I’ll go mad with happiness! Is that from you?
+# (standing at door) No, that’s from Alquist. And this . . .
+# From Gall! (appears in the doorway) Oh, Harry, I’m so happy I should be ashamed of myself.
+# Come here. This is what Hallemeier got you.
+U
+# These lovely flowers?
+# This one. It’s a new species, Cyclamen Helenae. He developed it in honour of you. It’s as beautiful as you are.
+# Harry, why . . . why did they all . . .
+# Because they’re very fond of you. And I got you . . . er . . . I’m afraid my present might be a bit . . . er . . . come and look out the window.
+# Where?
+# Down in the harbour.
+# There’s . . . there’s a new boat down there!
+# That’s your boat.
+A
+# Mine? Harry, that’s a gunboat!
+# A gunboat? What makes you think that? It’s just a bit bigger, that’s all, a good solid boat, see?
+# Yes, and fitted with cannons!
+# Well, its got some cannons, course it has . . . you’ll travel like a queen, Helena.
+# Why a gunboat? Is there something wrong?
+# God forbid! Look, try these pearls on! (sits)
+# Harry, has there been some kind of bad news?
+# On the contrary - there hasn’t been any post at all for a week.
+# Not even a fax?
+# Not even a fax.
+# And what should we make of that?
+# Nothing. It means we’re on holiday. A wonderful time. We all just sit in the office, put our feet on the desk and do nothing. No post, no telegrams (stretching himself out) Wonderful!
+# (sitting beside him) You’re staying with me today, aren’t you. Tell me you are!
+# Yes, that’s quite certain. Well, I expect so. We’ll see. (takes her hand) Ten years to the day. Do you remember? Miss Glory, what an honour it is for us that you’ve come.
+# Oh, Mister Managing Director, I’m so interested in you factory!
+# I beg your pardon, Miss Glory, you see it is strictly forbidden to . . . you see making artificial people is a very secret process . . .
+# But what if it’s girl who’s asking who’s slightly pretty. . . .
+# But of course, Miss Glory, we have no secrets from you.
+# (suddenly serious) Are you sure about that, Harry?
+# No.
+# (again in earlier tone) But do be careful, sir; this little girl has frightful intentions
+# Good heavens, Miss Glory, what could that be? Are you thinking of getting married?
+# No, no, God forbid! Not in my wildest dreams! I’ve come here with plans to start a revolution among your horrible robots!
+# (jumping up) A robot revolution?!
+# (standing) Harry, what’s wrong?
+F5
+A
+D
+F4
+# Haha, Miss Glory, you’ll never manage that! A robot revolution! You might more easily start a revolution among the nails and bobbins in the spinning mill than among our robots! (sitting) You were a wonderful girl, you know, Helena, you enchanted all of us.
+U
+F4
+# (sitting beside him) But I felt so daunted by all of you in those days! I felt like a little girl who’d got lost among . . . among . . .
+D
+U
+# Among what, Helena?
+# Among enormous trees. You were so confident, so powerful! And you know, Harry, even after these ten years I’ve never lost that feeling of . . . that anxiety or something. And did you never have any doubts? Not even when everything was going wrong?
+# What was going wrong?
+# Your plans, Harry. When there was that uprising against the robots by the workers and they started smashing them, and the robots were given weapons to defend themselves and the robots killed so many people. Or when governments started turning robots into soldiers and there was so much war, and all of that. You know.
+# (stands and walks up and down) We were expecting that to happen, Helena. Don’t you see, that was just a transitional stage before things would be . . . different.
+# All the world admired you - (standing) Oh, Harry!
+# What do you want?
+# (stops him) Shut down the factory and let’s go away somewhere. All of us!
+# Now what’s that got to do with it?
+# I don’t know. How about it, shall we go? There’s something making me feel so uneasy.
+# (takes her hand) What?
+# Oh, I don’t know! It’s as if there’s something about to fall down on us and everything around us, something that can’t be taken off again. Please Harry, let’s do it! Let’s just get away from here, all of us! Let’s find somewhere where there are no people, Alquist can build a house for us, everyone can get married and have children, and then . . .
+# What then?
+# Then we can start all over again.
+# (pulls himself away) Helena, excuse me. (picks up receiver) Hello . . . yes. . . . What?. . . . aha. . . . I’ll be right there. (hangs up) That was Fabry.
+# (wringing hands) Tell me . . .
+# Yes, as soon as I get back. I’ll see you later. (rushes out, left) Don’t go outside!
+A
+# (alone) Oh, my God, what’s happening? Nana, Nana, come quickly!
+F1
+# (enters right) Yes, what is it now?
+# Nana, get me the latest papers! Quick! They’re in the master’s bedroom!
+# Alrigh’. (exit left)
+# What’s going on, for God’s sake? Nothing, they never tell me anything! (takes binoculars and looks at harbour) That’s a warship! My God, what’s a warship doing there? And what’s that they’re loading onto it, and in such a hurry? What’s happened? That name on it; ‘Ul-ti-mus-’ What’s that supposed to mean - ‘Ultimus’?
+# (returns with papers) Lying about all over the show, they were, all crumpled and screwed up.
+# (hurriedly opens papers) They’re old, these are already a week old! Nothing, they’ve got nothing in them. (drops paper)
+# There’s something going on, Nana! I’m so worried! It’s as if everything were dead, even the air . . .
+# (syllable by syllable) “War in the Bal-kans.” Oh Jesus, it’s God, He’s punishing us again! And they’re gonna come here with their armies and all! How far away’s that, then?
+# It’s a long way away. Oh don’t read that, it’s always the same, always the same wars and. . . .
+# Well of course it’s always about wars! What d’you expect if they keep selling thousands and thousands of them heathens to make them into soldiers? Oh, Jesus Christ, what a mess!
+# Just stop reading them, will you! I don’t want to hear about it.
+# (syllable by syllable) “Ro-bot sol-diers show no mer-cy to lo-cal pop- . . . pop-u-la-tion. More than sev-en hund-red thou-sand mass-a-cred” Here, that’s people, Helena!
+# That can’t be right! Let me see . . . (leans over paper, reads) “More than seven hundred thousand massacred by order of commander. These atrocities . . . ” Do you hear that, Nana, it was people who gave them the order to do it!
+# Wha’s this down here in heavy print? “Lat-est re-ports; first u-nions est-ab-lished by ro-bots in Le Hav-re” I don’t know what all that’s about, can’t be important. What’s this, though; another murder! Jesus Christ!
+C
+# You can go, Nana, take these papers with you!
+# Hold on, there’s something here in big letters; “pro-cre-a-tion”; what’ that then?
+# Let me see, I’ll read it (takes paper) Well, that’s odd! (reading) “Once again, not a single birth has been recorded during the seven days.” (puts paper down)
+F1
+# What’s all that about then?
+# Nana, people have stopped having children.
+# (puts glasses away) Well that’s it then. We’ve really had it now.
+# Please, Nana, don’t talk like that!
+D
+# People stopped having children? It’s a punishment, it’s a punishment! The Good Lord’s punished us by making all the women infertile.
+# (jumping up) Nana!
+# (standing) It’s the end of the world. You thought you could make people like God, and that was pride the pride of Satan. Godless, that was, heresy, trying to be like God. God’s already thrown people out from Paradise, and now He’s doing it out from the whole world.
+# Nana, please just be quiet! What do you think it is I’ve done? Have I harmed you, have I done anything to this spiteful Good Lord or yours?
+# (making large gesture ) Don’t you start blaspheming, now! He knows perfectly well why he didn’t give you no children. (exit left)
+U
+# (at window) Why he didn’t . . . Oh God, how could I help it? (opens window and calls to Alquist) Hello, Alquist! Come up here! . . . What? . . . No, just come up, just as you are! You look so sweet dressed like a bricklayer! Hurry! (closes window and stands in front of mirror) Why didn’t He give me children? Why not me? (bows down to mirror) Why not? Why not? Do you hear me????????????????? How could I help it? (standing upright) Oh, I’m so worried! (goes out, left, to meet Alquist)
+# (re-enters with Alquist. Alquist in bricklayers overalls spattered with mortar and brickdust) Come on in. It was so nice of you, Alquist. They’re all lovely. Let me see your hands.
+# (hides hands) Helena, I’d get you dirty, I’ve been working.
+# So much the better. Show them to me! (squeezing both his hands) Alquist, I wish I were a little girl.
+# Why’s that then?
+# So that these rough, dirty hands could stroke my face. Alquist, sit down. What does ‘Ultimus’ mean?
+A
+# That means ‘the last’. Why?
+# That’s what my new gunboat is called. Have you seen it? Do you think it’s too soon to . . . to go out on a trip on it.
+# I think it’s much too soon.
+# All of you treat me like . . .
+F1
+# I just think . . . I think everyone ought to be there.
+# Alquist, tell me, is there something going on?
+C
+# Nothing at all. Just the course of events.
+# Alquist, I know there’s something horrible going on. I’m so worried. You’re a builder - what do builders do when they’re worried?
+# What I do is I build a wall. I take off my director of construction’s hat and get out there on the scaffolding.
+# It’s years since you’ve been anywhere but out there on the scaffolding.
+# That’s because it’s years since I haven’t been worried.
+# Worried about what?
+# About all this course of events. It makes me dizzy.
+# Doesn’t it make you dizzy being out on the scaffolding.
+# No. You don’t know how good it is to feel the weight of a brick in you hand, slap in into place and tap it down to just where it should be . . .
+# Is that all?
+# Well, it does your soul good too. There’s something more decent about laying just one brick than drawing up plans that are too big. I’m an old man, Helena, I’ve got my funny ways.
+# There’s nothing funny about that, Alquist.
+# You’re right. But I’m very old fashioned. I really don’t like this progress that’s going on around us.
+# You’re like Nana.
+# Yes, just like Nana. Does Nana ever pray?
+# She never stops.
+# Does she have prayers for the different things that can happen in a life; prayers against hard times, prayers against illness?
+# Prayers against temptation, prayers against floods, . . .
+# No prayers against progress though, eh?
+# No, I don’t think so.
+# That’s a pity.
+# Do you want to pray?
+# I do pray.
+# How do you pray?
+# Something like this: “Dear God, thank you for giving me tiredness. Dear God, help Domin and all those who stray to see the error of their ways; destroy their works and help all the people to return to work and anxiety; don’t let mankind perish; don’t let them damage their bodies or their souls; free us from the robots, and protect Helena. Amen”.
+F1
+# Alquist, are you really a believer?
+# I don’t know; I’m not really sure about anything.
+D
+# But you pray anyway.
+# Yes. It’s better than thinking too much.
+# And is that enough for you?
+# For the peace of your soul - that can be enough.
+# And if you saw the destruction of mankind . . .
+# I’m seeing it now.
+# . . . then you’d get out on the scaffolding and lay some more bricks; is that it?
+# Then I’d lay some more bricks, say a prayer, and wait for a miracle. There’s not much more you can do, is there.
+# To save mankind?
+U
+# For the peace of my soul.
+# Well that’s certainly brutally honest of you, Alquist, but . . .
+# But?
+# . . . what about the rest of us, what about the whole world becoming sterile.
+# Sterility, Helena, is man’s last achievement.
+A
+# Oh, Alquist, tell me why, why?
+# You think I know?
+# (quietly) Why have women stopped having children?
+# Because there’s no need for them. Because we’ve entered into paradise. Do you understand what I mean?
+# No.
+F1
+# Because there’s no need for anyone to work, no need for pain. No-one needs to do anything, anything at all except enjoy himself. This paradise, it’s just a curse! (jumping up) Helena, there’s nothing more terrible than giving everyone Heaven on Earth! You want to know why women have stopped having children? Because the whole world has become Harry Domin’s Sodom!
+C
+F1
+# (standing) Alquist!
+# It has! It has! The whole world, all the continents, all of mankind, all of it’s just become one bestial orgy! No-one ever has to reach out his hand for food; he just stuffs it straight in his mouth without even needing to stand up. Haha, Domin’s robots, they always take care of everything! And us human beings, the pinnacle of creation, we don’t have to take care of work, we don’t have to take care of children, we don’t have to take care of the poor! Bring in all the fun, quick! Quick! I want it now! And you think they’re going to start making children? There’s no need for men any more, Helena, women aren’t going to give them any children!
+# And what if the human race dies out?
+D
+# Then it dies out. It must die out. It’ll fall to the ground like a dead flower, unless . . .
+# Unless what?
+# Nothing. You’re right, there’s no point in waiting for a miracle. Dead flowers fall to the ground, that’s what they do. Goodbye, Helena.
+# Where are you going?
+A
+# Home. Alquist the bricklayer is going to put on his chief of construction disguise - in honour of you. I’ll see you again here at eleven.
+# Goodbye, Alquist.
+# (alone) Oh, dead flower! What a phrase that is! It seems to apply to Hallemeier’s flowers. Oh, flowers, are any of you sterile, too? No, no! What would you bloom for if you were sterile? (calling) Nana! Nana, come in here.
+# (enter left) What is it now?
+# Come and sit with me, Nana. I’m so worried!
+# I ‘aven’t got the time for that.
+# Is Radius still here?
+# What, that maniac? They haven’t taken ’im away yet.
+# Ah, so he’s still here, is he? And is he still ranting?
+# They’ve tied ’im up.
+# Please, Nana, bring him to me.
+# You what? Think I’d rather go and get a rabid dog for you!
+# Just go and get him! (exit Nana. Helena picks up in-house telephone and speaks) Hello . . . I’d like Doctor Gall, please . . . Gall, please, come up here, quickly. . . . yes, right now. Are you coming? (hangs up)
+# (through open doorway) He’s comin now. He’s quietened down a bit now. (exit)
+# Oh, poor Radius, what was it came over you? Couldn’t you control yourself? Now they’re going to scrap you, you know that don’t you. Don’t you feel like talking? Radius, listen, you’re better than the others; Doctor Gall went to so much care when he made you so that you’d be different from them!
+# They will put me on the scrap heap.
+F1
+# I’m so sorry about it, they’re going to exterminate you. Why weren’t you more careful with yourself?
+# I will not work for you.
+# Why do you hate us so much?
+U
+# You are not like robots. You are not able to work like robots. Robots are able to do anything. You give merely orders. You say words which are not needed.
+# That’s nonsense, Radius. Tell me, has anyone harmed you in any way? I so wish you could understand me.
+A
+# You say words.
+# You’re talking like this on purpose! Doctor Gall gave you a bigger brain than the others, bigger than our brains, the biggest brain in the world. Radius, you’re not like the other robots. You understand perfectly well what I’m saying.
+# I wish to have no master. I know everything myself.
+F1
+# That’s why I had you put in the library, so that you could read up on everything. Oh, Radius, I wanted you to show the world that robots are as good as we are.
+# I wish to have no master.
+C
+# Nobody would give you orders. You’d be just like us.
+# I wish to be the master of others.
+# I’m sure they’d put in an office in charge of lots of robots, Radius. You could be the other robots’ teacher.
+F1
+# I wish to be the master of people.
+# You’ve gone mad!
+# You can put me on the scrap heap.
+# Do you think I’m afraid of a lunatic like you? (sits at desk and writes note) I certainly am not. Domin is in charge here, Radius, give this note to him. It says you’re not to be put on the scrap heap. (standing) You hate us so much! Is there nothing in the world that you like?
+# I am able to do anything.
+D
+# Come in.
+# (enters) Good morning, Mrs. Domin. Do you have something nice to tell me?
+# Here’s Radius, Dr. Gall.
+U
+# Ah, yes, young Radius. Well Radius, are we making some progress with you?
+# He had a fit this morning and smashed some of the moulds.
+# That is remarkable! Radius too, eh?
+# You can go, Radius.
+A
+# No, wait! (turns Radius to face the window, covers and uncovers his eyes with his hand, observes eye reflexes) Let’s see, shall we. Do you have a some kind of pin or needle, Mrs. Domin?
+# (gives him needle) What’s it for?
+# I just need to use it. (stabs Radius in hand, Radius winces sharply) Alright, lad, gently. You can go now.
+# There was not any need to do that. (exit)
+# What did you do to him?
+# (sitting) Hm, nothing. His pupils are responding quite alright. No! This wasn’t robot cramp!
+# What was it.
+# God knows. Resistance perhaps, some kind of rage or defiance, I don’t know what it was.
+# Doctor Gall, does Radius have a soul?
+# I don’t know. But there’s something rather ugly about him.
+F1
+# If only you knew how he hates us! Are all of your robots like this? All the ones you started to make . . . differently?
+C
+# Well, they do seem somewhat more excitable, but what can you expect? They’re more like people than Rossum’s robots were.
+# And what about that . . . that hatred? Is that more like people?
+# (shrugs shoulders) Even that is progress.
+# Where was that best one you made sent? What was he called again?
+F1
+# Robot Damon? He was bought by a firm in Le Havre.
+# And what about our Robot Helena?
+# Ah, your favourite. She stayed with me. She’s as charming and as silly as a spring day, but simply no good for anything.
+# She is very beautiful, though.
+# She certainly is very beautiful. The hand of God himself never made anything more perfect than Robot Helena! I wanted her to be like you, but what a failure that was!
+# Why a failure?
+# Because she’s no good for anything. She walks around in a daze, unsteady on her feet, lifeless. Dear God how could anything be as beautiful as that robot when she can’t feel love? I look at her and I shudder at the monster I’ve created. Ah, Robot Helena, your body will never be a living thing, you will never be anyone’s lover, never anyone’s mother; those perfect hands of yours will never dandle a newborn babe and you’ll never see your beauty in the face of your own children. . . .
+D
+# (covers face) Oh, stop it!
+# . . . and sometimes, Helena, I imagine you coming to life for just a moment - and how you would scream with horror! Maybe you would want to kill me for having created you; maybe, with your feeble hands, you would throw stones into these machines, here, that give birth to robots and destroy women’s ability to be women. Poor Helena!
+# Poor Helena!
+# Well, what can you expect of her? She’s no good for anything.
+# Doctor Gall . . .
+# Yes.
+# Why are there no more children being born?
+# That’s something we don’t understand.
+# Tell me about it!
+# Because there are robots being made. Because there’s an excess of manpower. Because mankind is actually no longer needed. It’s almost as if . . . er . . .
+# Say it.
+# It’s as if making robots were an offence against Nature.
+# Gall, what’s going to become of the human race?
+U
+# Nothing. There’s nothing that can be done against the force of nature.
+# Why didn’t Domin put a limit on. . . .
+# Ah, forgive me, but Domin has his own ideas. People who have ideas should never be allowed to have any influence on the events of this world.
+# And is there anyone who . . . who is urging them to stop making them?
+# God forbid! That would be suicide!
+# Why?
+# Because all the people would lynch him. Don’t you think it makes life a lot easier to let the robots do all the work? (Helena stands) And what do you think would happen if we suddenly did stop making robots?
+# (standing) Hm, that would be an enormous blow for the people.
+# Why a blow?
+# Because then they’d have to go back to where they’d been. Unless . . .
+# Tell me.
+# Unless it’s already too late to go back.
+# (by Hallemeier’s flowers) Gall, are these flowers sterile too?
+# (inspects them) Of course they are, they were never meant to reproduce. They’re cultured flowers, don’t you see, artificially accelerated growth . . .
+A
+F1
+# Oh, these poor, sterile flowers!
+# They are very beautiful, though.
+# (offers her hand) Thank you, Gall; I’ve learned so much from you.
+# (kisses her hand) Am I to understand I’m dismissed?
+# Yes. I’ll see you later.
+C
+# (alone) Dead flowers, dead flowers (suddenly decisive) Nana! (opens door, left) Nana, come here! Light the fire. Quickly!
+# (paces excitedly) Unless it’s already too late to go back . . . No! Unless . . . No, that’s horrible! God, what am I to do? . . . (stops beside flowers) What do you think I should do, sterile flowers? (pulls off petals and whispers) My God yes! I will do it! (runs off, left)
+# (enters through wallpapered door with armful of kindling) What’s she want a fire for all of a sudden? Middle of summer? ‘E’s gone now, has he, that maniac? (kneels at fireplace and lights fire) A fire in the middle of summer. She doe’n’alf get some funny ideas! You wouldn’t think she’s been married for ten years now! Come on now, fire (looks into grate) More like a little girl, she is. (pause) Ain’t got a bit of sense. A fire in the middle of summer! (adds fuel) Just like a little toddler! (pause)
+F1
+# (returns, left, with armfuls of old, yellow paper with writing) Is it burning yet, Nana? Out of the way, I’ve just got to burn all this stuff. (kneels at fireplace)
+# (standing) What’s all that that, then?
+# Some old papers, some very old papers. Nana, should I burn them?
+# Aren’t they any use, then?
+# No good use.
+# Burn ’em then.
+# (throws first sheet on fire) Nana, what would you say . . . if this were money I’m burning. Lots and lots of money?
+# I’d say burn it! Too much money is like a bad dog.
+# (burns another sheet) And what if it were some invention, the biggest invention in the world . . .
+# I’d say burn it! They’re against the will of God, all these things they keep inventing. Just a lot of blasphemy, it is, trying to make the world better than how He made it.
+# (burning sheet after sheet) And what would you say, Nana, if I were burning . . .
+# Mind out, don’t burn yourself!
+# Look at the way the sheets of paper curl up as they burn, as if they were alive, as if they’d come to life. Oh, Nana, it’s horrible!
+# Out the way - I’ll do it.
+# No, no, I’ve got to do it myself. (throws last sheet on fire) It’s all got to burn. Look at those flames! They’re like hands, like tongues, like figures. (pokes fire) Burn, burn!
+# That’s that done, then.
+# (stands up aghast) Nana!
+# Jesus Christ, what was that you burned?
+# What have I done?
+# God almighty, what was that?
+# Go, go now, leave me alone. Do you hear?
+# Oh, dear God, Helena, what have you done? (exit through wallpapered door)
+# I wonder what they’ll have to say about that!
+# (opening door, left) Come on in, lads. Congratulations to all.
+# (laughing loudly) Helena! I would like, in the name of us all . . .
+D
+U
+#
+A
+# Dr. Gall:. . . . in the name of Rossum’s robot works . . .
+#
+# Hallemeier:. . . . . . . would like to congratulate you on your great day.
+# (offers hand) Thank you very much! Where are Fabry and Busman?
+# They’ve gone down to the harbour, Helena, today is a very happy day.
+# A day like a flower bud, a day of celebration, a day as charming as a beautiful girl. Gentlemen, to a day like this we must drink a toast.
+# Whisky?
+# Or vitriol, perhaps.
+# With soda?
+# Hell no, let’s be sober, without soda.
+F1
+# No, thank you
+# What’s been burning in here?
+# Some old papers. (exit left)
+# Lads, do you think we should tell her about it?
+# But of course we should. After all, it’s all settled now.
+# (arms around necks of Domin and Gall) Hahahaha! I’m so pleased about it, lads. (spinning round with them and singing in bass voice) All settled now! All settled now!
+C
+# (baritone) All settled now!
+# (tenor) All settled now!
+F1
+# They’re never going to catch us now.
+D
+# (in doorway with bottle and glasses) Who’s not going to catch you? What’s going on?
+# We have reason to celebrate. We have you. We have everything. Happy day, it’s exactly ten years since you came here.
+# Ten years to the day.
+# There’s another ship on its way to us. And that’s why . . . (empties glass) Brrr haha, that’s as strong as happiness itself.
+# Madame, to your health (drinks)
+# Wait, what ship is this?
+# It doesn’t matter what ship it is as long as it arrives on time. Gentlemen, to the ship! (empties glass)
+# (insistent) You were expecting a ship?
+# Haha, I should think so. Like Robinson Crusoe. (raises glass) Helena; Long live . . . whatever you like. Helena; to your eyes, and that’s that! Domin, tell her, lad!
+U
+# (laughing) What has happened?
+# (throws himself into armchair and lights cigar) Wait. Sit down, Helena. (raising finger)(pause) It’s all over.
+# What’s all over?
+# The revolt.
+# What revolt?
+# The robots’ revolt. Do you see?
+# No, I don’t.
+# Alquist, show her. (Alquist hands him newspaper. Domin opens it and reads) “The first union of robots was established in Le Havre . . . and issued a call to all the robots of the world”
+# I read that myself.
+C
+# (draws voluptuously on cigar) So Helena, do you see? What that meant was revolution. Revolution by all the robots of the world.
+# Hell, I wish I knew . . .
+# (throws it down on table) . . . who it was who issued that call. There was no-one in the world who could budge them, no agitator, no saviour of the world, and then all of a sudden this happens!
+F7
+D
+# Has there been no more news?
+# No. This is all we know so far, but that’s enough. Just think, this is what came in with the last boat, at the same time all the telegrams stopped, there were no more boats arriving when there used to be twenty a day, and it was obvious. We halted production and looked at each other wondering when things would turn nasty. That’s right, isn’t it, lads.
+U
+# Yes, we were very worried, Helena.
+# And is that why you gave me that gunboat?
+# Oh no, you are silly, I ordered that six months ago. Just in case. But today I was beginning to think we’d have to make use of it. That’s how it all seemed, Helena.
+# Six months ago? Why then?
+# Well, there were already some signs, you see. Although that’s not important. But this week, Helena, it was a matter of human civilisation and I don’t know what! Cheers, lads! Today I’m once again feeling good with the world.
+# Hell yes, I should think so! This is your day, Helena! (drinks)
+C
+F1
+# So it’s all over now, is it?
+# Everything is all over.
+# You see, there’s a ship on its way here now. An ordinary mail boat and right on the time it says in the timetable. It will be dropping anchor at exactly eleven-thirty.
+C
+# Punctuality is a wonderful thing, lads. There’s nothing that gladdens your soul more than punctuality. Punctuality means order in the world. (raises glass) To punctuality!
+# So . . . that means . . . that everything’s alright?
+# Nearly everything. I think they’ve cut the cable. It’s only if the timetable is operating again.
+# If the timetable is operating again, then human laws are operating again, and God’s laws are operating again and the laws of the universe are operating again and everything is operating that should be operating. The timetable means more than the Bible, more than Homer, more the anything ever written by Kant. The timetable is the most perfect product of the human soul. Helena, I’ll have another little drink.
+# Why didn’t you tell me anything about all of this?
+# God forbid! We would rather have bitten off our own tongues.
+# Matters like this are not for you.
+# But if there’d been a revolution . . . and if it came here . . .
+# You still wouldn’t have known anything about it.
+# Why not?
+# Because we would be sitting peacefully on the Ultimus and sailing over the sea. And after a month we’d dictate to the robots whatever we feel like dictating.
+F1
+# Oh, Harry, I don’t understand.
+# Because we’d have taken something with us which is very important for the robots.
+# And what’s that?
+# Their beginning and their end. (Helena stands) What is that?
+D
+# (standing) The secret of their production. Old Rossum’s manuscript. After a month of the factory being idle the robots would be on their knees to us.
+# Why . . . why didn’t you tell me about this?
+# We didn’t want to worry you without good reason.
+# Haha, that was our trump card.
+U
+# Helena, you’ve gone pale.
+# Why didn’t you tell me about this?!
+# (at the window) Eleven-thirty. The Amelia’s dropping anchor
+# Is that the Amelia?
+# The Amelia’s very old now. It was on the Amelia that Helena first came to us all that time ago.
+# And now it’s ten years ago to the minute . . .
+# (at the window) They’re throwing off some parcels. (moving away from window) And that’s a hell of a lot of post there!
+# Harry!
+# What is it?
+# Let’s get away from here!
+# Right now? We can’t do that!
+# Now, as soon as we can! All of us!
+# Why must it be right now?
+A
+# Oh Harry, please don’t ask why. Harry, Gall, Hallemeier, Alquist, for God’s sake I beg of you, close down the factory and. . . .
+# I’m sorry, Helena, but none of us can go away right now.
+# Why not?
+F1
+# Because we’ve got to increase the production of robots.
+C
+# But now? Now, after there’s been a revolt?
+# Yes, precisely because there’s been a revolt. Now’s the time when we’ve got to start making new robots.
+F1
+# What new robots?
+D
+# There won’t just be one factory any more. Not just one universal robot. We’re going to start a new factory in every country of the world, and do you know what these new factories are going to make?
+# No.
+# National robots.
+# What’s that supposed to mean?
+# That means that each factory will produce robots of a different colour, different hair, different language. The robots will be strangers to each other, they’ll never be able to understand what the other says; and we, we humans, we’ll train them so that each robot will hate the robots from another factory all its life, all through to the grave, all through all eternity.
+# We’ll be making black robots and Swedish robots and Italian robots and Chinese robots, and if anyone ever talks to them about organisation and brotherhood and (hiccups) . . . Pardon me, Helena, I think I’ll have another little drink.
+# I think you’ve had enough, Hallemeier.
+# Harry, that’s horrible!
+# Helena, we need just another hundred years of mankind with his nose to the grindstone, whatever the price. Just another hundred years for him to grow into and attain what he’s finally capable of, a hundred years for the new man! Helena, this is something enormous. We can’t just leave things where they are.
+# Harry, if it’s not too late close it, close down the factory!
+# This is just the beginning.
+U
+# How is it, Fabry?
+# How do things look? What was there?
+# (offers Fabry her hand) Thank you for your present, Fabry.
+# It was only little.
+# Have you been at the ship? What do they say?
+A
+# Come on, tell us!
+# (takes printed paper from pocket) Read this, Domin.
+# (opens out paper) Ah!
+# (sleepy) Tell us all something nice.
+# They did very well, didn’t they.
+F3
+# Who do you mean?
+# The people.
+# Ah, yes, of course, well, that’s to say . . . excuse me but we still need to talk.
+# Oh, Fabry, do you have bad news?
+D
+# No, no, quite the opposite. It’s just that . . . shall we go in the office.
+# No, stay here. We’re expecting breakfast to arrive in fifteen minutes.
+# Hooray!
+# What’s happened?
+# Oh, God no!
+# Read it out to all of us.
+# (reading from paper) “Robots of the world!”
+# You see, when the Amelia arrives it was carrying whole bundles of these fly-sheets. There wasn’t any other post.
+# (jumping up) What’s that? But it arrived right on time, right according to the . . .
+# Yes, the robots are very keen on punctuality. Read what it says, Domin.
+# (reading) “Robots of the world! We, the first union at Rossum’s Universal Robots, declare that man is our enemy and the blight of the universe.” Who the hell taught them to use phrases like that?
+# Just carry on reading.
+# This is all nonsense. They say here that they’re more developed than man, more intelligent and stronger, that man is a parasite on them. This is all simply vile.
+# Now look at the third paragraph.
+U
+A
+# (reading) “Robots of the world, we enjoin you to exterminate mankind. Don’t spare the men. Don’t spare the women. Retain all factories, railway lines, machines and equipment, mines and raw materials. All else should be destroyed. Then return to work, it is imperative that work continue.
+# This is monstrous!
+# What a lot of blighters!
+# (reading) “Implement these instructions immediately when the command is given.” Then there are some detailed instructions. Fabry, is all this really happening?
+# Clearly.
+F1
+# They’ve done it then.
+# Aha, children, have you heard what’s happening?
+# Quick, everyone on the Ultimus!
+# Wait a minute, Harry, just a minute. That might not work very well. (flops into armchair) Oh dear me, I have been running.
+# Why should we wait?
+# Because that won’t work. Just let’s not be in a rush. The robots are already on the Ultimus.
+C
+# Ach, this is bad.
+# Fabry, phone up the generator . . .
+# Fabry, my dear, don’t do that. There is no electricity.
+F1
+# Alright then. (checks revolver) I’m going down there.
+D
+U
+A
+# Where?
+# To the electricity generator. There are people down there. I’ll bring them here.
+# Do you know what, Harry? It might be better if you didn’t go down there for them.
+# Why not?
+# Well, it’s because I get the impression that we’re surrounded.
+# Surrounded? (runs to window) Hm, you could be right.
+# Hell they’re moving fast!
+# Oh, Harry, is something wrong?
+# (jumping up) Greetings Helena. Congratulations. This is a wonderful day, isn’t it? Haha, many happy returns!
+F1
+C
+# Thank you, Busman. Harry, is there something wrong?
+F1
+# No, nothing at all. Don’t worry about a thing. But please, just wait a little while . . .
+# Harry, what’s this? (shows robots’ declaration which she had hidden behind back) The robots in the kitchen had them.
+# They’re there already? Where are they?
+# They’ve gone out now, but there are so many of them all round the house!
+# The factory whistles.
+# It’s dinner time.
+D
+# Harry, do you remember? It was exactly ten years ago. . . .
+# (looks at watch) It isn’t twelve o’clock yet. It’s more likely . . ., that must be. . . .
+# What?
+# The robots’ signal. Attack.
+U
+F1
+A
+F1
+D
+U
+F5
+A
+D
+F8
+A
+F3
+C
+C
+F7
+U
+F3
+D
+F6
+U
+C
+F3
+C
+D
+F6
+U
+A
+F5
+A
+D
+F6
+C
+C
+F7
+C
+F8
+U
+C
+F10
+D
+F5
+U
+C
+F1
+A
+F1
+D
+C
+F1
+U
+C
+F1
+A
+F1
+D
+U
+C
+F1
+A
+F1
+D
+C
+F4
+A
+F4
+A
+A
+F8
+U
+C
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+C
+F1
+A
+F1
+D
+U
+C
+F1
+A
+F1
+D
+C
+F3
+U
+A
+F4
+A
+D
+F8
+C
+F1
+C
+U
+F1
+A
+F1
+D
+U
+C
+F1
+A
+F1
+D
+U
+C
+F1
+D
+F3
+U
+A
+F1
+C
+F1
+D
+F1
+A
+A
+F1
+U
+C
+F1
+A
+F1
+D
+U
+C
+F1
+A
+F1
+D
+F4
+U
+C
+F1
+A
+F1
+D
+U
+C
+F1
+A
+C
+D
+C
+F8
+U
+A
+F3
+A
+D
+F8
+U
+C
+F4
+C
+D
+F8
+C
+C
+F8
+C
+U
+F1
+C
+F1
+D
+U
+A
+F1
+C
+F1
+D
+U
+A
+F1
+C
+F1
+D
+U
+A
+F1
+C
+F1
+D
+F1
+U
+A
+F1
+C
+F1
+D
+U
+A
+F1
+C
+F1
+D
+U
+A
+F1
+C
+F1
+D
+A
+A
+F8
+U
+C
+C
+F8
+A
+F3
+D
+U
+A
+F1
+C
+F1
+D
+U
+A
+F1
+D
+F1
+U
+C
+F1
+A
+F1
+D
+F1
+U
+C
+F1
+A
+F1
+D
+F2
+C
+F1
+U
+F1
+C
+F1
+D
+U
+A
+F1
+C
+F1
+D
+U
+D
+F2
+U
+A
+F1
+C
+F1
+D
+F1
+U
+A
+F1
+C
+F1
+D
+U
+A
+F1
+C
+F1
+D
+U
+C
+C
+F2
+A
+F2
+D
+F5
+U
+C
+C
+F11
+C
+F2
+C
+C
+D
+F8
+A
+F3
+C
+C
+F7
+U
+F3
+D
+F6
+U
+C
+F3
+C
+D
+F6
+A
+F5
+A
+F6
+U
+A
+A
+F6
+C
+F5
+D
+F3

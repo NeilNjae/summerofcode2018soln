@@ -64,4 +64,10 @@ executable task4
                      , text
                      , megaparsec
                      , unordered-containers
-                     
+
+executable task5
+  hs-source-dirs:      src/task5
+  main-is:             task5.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+                     , text

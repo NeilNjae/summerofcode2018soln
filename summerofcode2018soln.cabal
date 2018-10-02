@@ -71,3 +71,27 @@ executable task5
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5
                      , text
+
+executable task5-lines
+  hs-source-dirs:      src/task5
+  main-is:             task5-lines.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+                     , text   
+
+executable task6
+  hs-source-dirs:      src/task6
+  main-is:             task6.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+                     , text
+                     , unordered-containers
+
+executable task6-monad
+  hs-source-dirs:      src/task6
+  main-is:             task6-monad.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+                     , text
+                     , unordered-containers
+                                         

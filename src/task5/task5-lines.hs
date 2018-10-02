@@ -8,16 +8,17 @@ import Data.Char (isSpace)
 
 main :: IO ()
 main = do 
-        text <- TIO.readFile "data/05-instructions.txt"
-        let uncommented = deComment text
-        let expanded = expand uncommented
+        text_all <-  TIO.readFile "data/05-instructions.txt"
+        let text = T.lines text_all
+        let uncommented = map deComment text
+        let expanded = map expand uncommented
         print $ countNonSpace uncommented
         print $ countNonSpace expanded
-        -- TIO.writeFile "data/05-output.ppm" expanded
+        -- TIO.writeFile "data/05-output.ppm" $ T.unlines expanded
 
 
-countNonSpace :: Text -> Int
-countNonSpace = T.length . T.filter (\c -> not (isSpace c))
+countNonSpace :: [Text] -> Int
+countNonSpace = sum . map (T.length . T.filter (\c -> not (isSpace c)))
 
 
 -- Remove comments

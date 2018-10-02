@@ -66,10 +66,10 @@ execGroups (State st) = fst $ st M.empty
 
 -- including all the friendships is just a monadic fold
 mergeFriendships :: [(Name, Name)] -> State ()
-mergeFriendships pairs = foldM_ includeFriendshipM () pairs
+mergeFriendships pairs = foldM_ includeFriendship () pairs
 
-includeFriendshipM :: () -> (Name, Name) -> State ()
-includeFriendshipM _ (thisPerson, thatPerson) = do
+includeFriendship :: () -> (Name, Name) -> State ()
+includeFriendship _ (thisPerson, thatPerson) = do
     include thisPerson
     include thatPerson
     thisExemplar <- exemplar thisPerson

@@ -82,13 +82,14 @@ candidates longCost lawn agendum closed = newCandidates
 successors :: Int -> Lawn -> Location -> (Q.Seq Neighbour)
 successors longCost lawn (row, column) = Q.fromList $ map neighbourify neighbours
     where neighbours = filter (\l -> l `M.member` lawn) 
-                                [(r, c) | r <- [(row - 1)..(row + 1)], 
-                                          c <- [(column - 1)..(column + 1)],
-                                          r >= minR,
-                                          r <= maxR,
-                                          c >= minC,
-                                          c <= maxC,
-                                          ((r == row && c /= column) || (r /= row && c == column)) ]
+                                [ (r, c) | r <- [(row - 1)..(row + 1)]
+                                         , c <- [(column - 1)..(column + 1)]
+                                         , r >= minR
+                                         , r <= maxR
+                                         , c >= minC
+                                         , c <= maxC
+                                         , ((r == row && c /= column) || (r /= row && c == column))
+                                ]
           neighbourify neighbour = Neighbour {stepLocation = neighbour, stepCost = scCalc neighbour}
           minR = minimum $ map fst $ M.keys lawn
           maxR = maximum $ map fst $ M.keys lawn

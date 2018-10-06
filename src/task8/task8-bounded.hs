@@ -98,13 +98,14 @@ successors :: Int -> BoundedLawn -> Location -> (Q.Seq Neighbour)
 successors longCost boundedLawn (row, column) = Q.fromList $ map neighbourify neighbours
     where lawn = lawnMap boundedLawn
           neighbours = filter (\l -> l `M.member` lawn) 
-                                [(r, c) | r <- [(row - 1)..(row + 1)], 
-                                          c <- [(column - 1)..(column + 1)],
-                                          r >= minR,
-                                          r <= maxR,
-                                          c >= minC,
-                                          c <= maxC,
-                                          ((r == row && c /= column) || (r /= row && c == column)) ]
+                                [ (r, c) | r <- [(row - 1)..(row + 1)]
+                                         , c <- [(column - 1)..(column + 1)]
+                                         , r >= minR
+                                         , r <= maxR
+                                         , c >= minC
+                                         , c <= maxC
+                                         , ((r == row && c /= column) || (r /= row && c == column))
+                                ]
           neighbourify neighbour = Neighbour {stepLocation = neighbour, stepCost = scCalc neighbour}
           minR = minRow boundedLawn
           maxR = maxRow boundedLawn

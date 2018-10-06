@@ -60,11 +60,15 @@ stack ghci summerofcode2018soln:exe:task1
 
 To profile, use 
 ```
-stack build --executable-profiling --library-profiling --ghc-options="-fprof-auto -rtsopts" task1
+stack build --executable-profiling --library-profiling --ghc-options="-fprof-auto -rtsopts"
 ```
 then run with
 ```
 stack exec -- task1 +RTS -p -hy
+```
+Make the profile graph visible with 
+```
+/usr/lib/ghc/bin/hp2ps task1.hp
 ```
 
 ## Packages

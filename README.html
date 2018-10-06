@@ -39,9 +39,11 @@
 <p>Run interactively with</p>
 <pre><code>stack ghci summerofcode2018soln:exe:task1</code></pre>
 <p>To profile, use</p>
-<pre><code>stack build --executable-profiling --library-profiling --ghc-options=&quot;-fprof-auto -rtsopts&quot; task1</code></pre>
+<pre><code>stack build --executable-profiling --library-profiling --ghc-options=&quot;-fprof-auto -rtsopts&quot;</code></pre>
 <p>then run with</p>
 <pre><code>stack exec -- task1 +RTS -p -hy</code></pre>
+<p>Make the profile graph visible with</p>
+<pre><code>/usr/lib/ghc/bin/hp2ps task1.hp</code></pre>
 <h2 id="packages">Packages</h2>
 <p>Stack is using the <a href="https://www.stackage.org/lts-12.9">12.9-lts resolver</a> for packages, so make sure you read the <a href="https://www.stackage.org/lts-12.9/docs">correct documentation for the packages included in it</a>.</p>
 <p>When you use a new package, use</p>

@@ -28,17 +28,22 @@ main = do
         bagsT <- TIO.readFile "data/09-bags.txt"
         let bags = successfulParse bagsT
         let limit = 5000
-        -- print bags
         print $ part1 limit bags
-        print $ part2 limit bags
+        let dpTable = buildTable limit bags
+        print $ part2 dpTable limit bags
+        print $ backtrace dpTable ((length bags), limit)
 
 part1 :: Weight -> [Bag] -> Int
 part1 limit bags = length $ last $ takeWhile (willFit limit) $ inits sortedBags
     where sortedBags = sortBy (compare `on` bagWeight) bags
           willFit limit' bags' = (sum $ map bagWeight bags') < limit'
 
-part2 :: Weight -> [Bag] -> Value
-part2 limit bags = value $ table!(length bags, limit)
+part2 :: DPTable -> Weight -> [Bag] -> Value
+part2 table limit bags = value $ table!(length bags, limit)
+
+
+buildTable :: Weight -> [Bag] -> DPTable
+buildTable limit bags = table
     where initialTable = M.fromList [((0, w), TableEntry {value = 0, backpointer = (0, w)}) | w <- [0..limit]]
           table = foldl' includeBag initialTable 
                           [ (thisBag, bagNumber, allowedWeight) 
@@ -62,6 +67,16 @@ includeBag table (bag, bagNumber, weight) =
           withoutBag = TableEntry {value = value withoutBagEntry, backpointer = withoutBagKey}
           withBag = TableEntry {value = value withBagEntry + bagValue bag, backpointer = withBagKey}
 
+
+backtrace :: DPTable -> (Int, Weight) -> [Bag]
+backtrace table key@(numberBags, weight) 
+    | numberBags == 0       = [Bag { bagValue = 0, bagWeight = weight }]
+    | weight == nextWeight  = backtrace table nextKey
+    | otherwise             = (backtrace table nextKey) ++ [includedBag]
+    where nextKey = backpointer (table!key)
+          (_, nextWeight) = nextKey
+          includedBag = Bag { bagWeight = weight - nextWeight
+                            , bagValue = (value (table!key)) - value (table!nextKey)}
 
 -- Parse the input file
 
